@@ -1,6 +1,9 @@
 a:link {
   color:dodgerblue;
 }
+body {
+	margin-bottom:6em;
+}
 #contents {
   line-height:1.5em;
   width:80%;
